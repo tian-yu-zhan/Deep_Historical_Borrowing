@@ -1,5 +1,7 @@
 # Deep_Historical_Borrowing
-R code to replicate simulation studies in the article "Deep Historical Borrowing Framework to Prospectively and Simultaneously Synthesize Control Information in Confirmatory Clinical Trials with Multiple Endpoints"
+R code to replicate simulation studies in the article "Deep historical borrowing framework to prospectively and simultaneously synthesize control information in confirmatory clinical trials with multiple endpoints"
+
+https://www.tandfonline.com/doi/full/10.1080/10543406.2021.1975128?src=
 
 This is a help file for the R code accompanying the article “Deep Historical Borrowing Framework to Prospectively and Simultaneously Synthesize Control Information in Confirmatory Clinical Trials with Multiple Endpoints”.
 
